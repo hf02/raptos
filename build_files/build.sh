@@ -141,7 +141,7 @@ PACKAGES=(
 )
 
 
-dnf5 install --setopt=install_weak_deps=False -y ${PACKAGES[@]}
+dnf5 install --setopt=install_weak_deps=False -y "${PACKAGES[@]}"
 
 ####
 #### Cleanup
