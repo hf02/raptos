@@ -1,4 +1,8 @@
-# image-template
+# raptos
+
+Custom image of [Bluefin](https://projectbluefin.io/), with some code based off [HyprBlue](https://github.com/ashebanow/hyprblue)
+
+# Original Template Readme
 
 This repository is meant to be a template for building your own custom [bootc](https://github.com/bootc-dev/bootc) image. This template is the recommended way to make customizations to any image published by the Universal Blue Project.
 
